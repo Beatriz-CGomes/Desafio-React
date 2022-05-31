@@ -1,0 +1,32 @@
+.promo_container {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 2em;
+  }
+  
+  .promo_container h1 {
+    font-family: "Open Sans";
+    font-weight: bold;
+    font-size: 28px;  
+   
+
+  }
+
+  
+  .promo_container p {
+    font-family: "Open Sans";
+    font-size: 18px;
+    text-align: left;
+    margin-right: 777px;
+   color: 4em #00045d;
+  }
+  
+  .promo_container img {
+    margin-left:20px;
+    float: left;
+  }
+
+

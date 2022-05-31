@@ -1,0 +1,49 @@
+label {
+    height: 320px;
+ margin: 0 auto;
+ padding: 9px;
+ font-family: "Open Sans";
+ color: #00045d;
+ position: relative;
+ 
+
+
+}
+
+input {
+ font-family: "Open Sans";
+ color: #00045d;
+    height: 25px;
+    width: 180px;
+    border: 2px solid #bbb7b7;
+    position: relative;
+    border-radius: 5px;
+    
+  }
+
+  .input input {
+    font-family: "Open Sans";
+    color:#00045d;
+       height: 25px;
+       width: 180px;
+       border: 2px solid #bbb7b7;
+       position: relative;
+       margin: 0 auto;
+       display: inline-block;
+       border-radius: 15px;
+       border-color: #ffe400;
+       background-color:#ffe400;
+       font-weight: bold;
+       padding: 9px;
+
+     }
+
+   fieldset {
+        font-family: "Open Sans";
+        color: #00045d;
+        position: relative;
+        height: 130px;
+        width: 1100px;
+        margin-right: 130px;
+       margin: 0 auto;
+       }
